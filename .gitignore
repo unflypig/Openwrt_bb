@@ -1,0 +1,9 @@
+/dl
+/tmp
+/staging_dir
+/build_dir
+/bin
+/files
+.idea
+#kfbuild
+*.tmp
